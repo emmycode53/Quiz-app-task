@@ -1,11 +1,11 @@
 const questions = [
     {
-        question: "What is the capital of France?",
+        question: "Which of the following is an insect?",
         answers: [
-            { text: "Lagos", correct: false },
-            { text: "Madrid", correct: false },
-            { text: "Berlin", correct: false },
-            { text: "Paris", correct: true }
+            { text: "rat", correct: false },
+            { text: "goat", correct: false },
+            { text: "elephant", correct: false },
+            { text: "fly", correct: true }
         ]
     },
     {
